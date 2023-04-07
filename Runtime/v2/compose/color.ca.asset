@@ -1,0 +1,99 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7f7e09d45f83546d0b1311791169eac9, type: 3}
+  m_Name: color.ca
+  m_EditorClassIdentifier: 
+  mode: 0
+  parentAsset: {fileID: 0}
+  DebugChanged: 0
+  Notes: 
+  _value: {r: 0.997, g: 1, b: 1, a: 1}
+  r: {fileID: 114371409751961260}
+  g: {fileID: 114257393962709454}
+  b: {fileID: 114375889495116980}
+  a: {fileID: 114130796167017052}
+--- !u!114 &114130796167017052
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9c90aa92f99264a9dade625aaea75589, type: 3}
+  m_Name: a
+  m_EditorClassIdentifier: 
+  mode: 0
+  parentAsset: {fileID: 11400000}
+  DebugChanged: 0
+  Notes: 
+  _value: 1
+  min: 0
+  max: 1
+--- !u!114 &114257393962709454
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9c90aa92f99264a9dade625aaea75589, type: 3}
+  m_Name: g
+  m_EditorClassIdentifier: 
+  mode: 0
+  parentAsset: {fileID: 11400000}
+  DebugChanged: 0
+  Notes: 
+  _value: 1
+  min: 0
+  max: 1
+--- !u!114 &114371409751961260
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9c90aa92f99264a9dade625aaea75589, type: 3}
+  m_Name: r
+  m_EditorClassIdentifier: 
+  mode: 0
+  parentAsset: {fileID: 11400000}
+  DebugChanged: 0
+  Notes: 
+  _value: 0.997
+  min: 0
+  max: 1
+--- !u!114 &114375889495116980
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9c90aa92f99264a9dade625aaea75589, type: 3}
+  m_Name: b
+  m_EditorClassIdentifier: 
+  mode: 0
+  parentAsset: {fileID: 11400000}
+  DebugChanged: 0
+  Notes: 
+  _value: 1
+  min: 0
+  max: 1

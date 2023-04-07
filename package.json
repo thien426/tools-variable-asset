@@ -1,0 +1,25 @@
+{
+	"name": "com.team70.variable-asset-2",
+	"version": "0.0.1",
+	"displayName": "T70 Variable-Asset-2",
+	"description": "Variable Asset v2",
+	"unity": "2021.3",
+	"documentationUrl": "https://example.com/",
+	"changelogUrl": "https://example.com/changelog.html",
+	"licensesUrl": "https://example.com/licensing.html",
+	"author": 
+	{
+	  "name": "thien",
+	  "email": "thiennguyen031196@gmail.com",
+	  "url": "https://www.unity3d.com"
+	},
+	"samples":
+	[
+		{
+			"displayName": "GlobalVA",
+			"description": "GlobalVA",
+			"path": "Samples~/GlobalVA"
+		}
+	] 
+	
+}
